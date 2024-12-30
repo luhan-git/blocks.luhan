@@ -1,6 +1,7 @@
 ---
 layout: ../../layouts/Base.astro
 title: "Blac bird"
+author: 'luhan'
 ---
 
 # ✈️ SR-71 Blackbird: El Avión Espía Supersónico
